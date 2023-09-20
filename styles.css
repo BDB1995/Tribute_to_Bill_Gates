@@ -1,0 +1,90 @@
+#main {
+	background-color: #ECECEC;
+	text-align: center;
+	font-family: Helvetica;
+	max-width: 2000px;
+}
+#img-div {
+	background-color: rgb(255, 255, 255);
+}
+
+
+
+li {
+	padding: 0.2rem;
+	justify-content: space-evenly;
+}
+/*
+#img-div {
+	padding-top: 50px;
+	padding-bottom: 20px;
+	max-width: 100%;
+	min-width: 100px;
+}
+*/
+#tribute-info {
+	width: 50%;
+	margin: auto;
+}
+
+.tribute-timeline {
+	display: list-item;
+	margin-left: 1em;
+	margin-bottom: 30px;
+	line-height: 30px
+}
+.year {
+	font-weight: bold;
+}
+
+.move {
+	margin-right: 20em;
+}
+
+
+.move1 {
+	margin-right: 20px;
+}
+.move2 {
+	margin-right: 15px;
+}
+.move3 {
+	margin-right: 15px;
+}
+.move4 {
+	margin-right: 35px;
+}
+h2 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.small {
+	max-width: 500px;
+	margin: 40px auto;
+}
+
+#read-more {
+	font-size: 1.2em;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 30px;
+	min-width: 100px;
+}
+#title {
+	padding-top: 40px;
+	font-weight: 800;
+}
+#img-caption {
+	padding-top: 10px;
+	font-family: -apple-system, BlinkMacSystemFont;
+}
+h1, h2 {
+	font-family: -apple-system, BlinkMacSystemFont;
+}
+#image {
+	display: block;
+	max-width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
